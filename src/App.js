@@ -56,7 +56,7 @@ import FragmentDemo from "./Component/FragmentDemo";
       <div className="App">
           {/* <Form/> */}
           {/* <LifeCycleA/> */}
-          <FragmentDemo/>
+          {/* <FragmentDemo/> */}
       </div>
     )
   }
